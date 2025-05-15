@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Anita Sharma",
+      "email": "anita@example.com",
+      "phone": "+91 9876543210",
+      "specialization": "CP's Reflex Marma",
+      "status": "approved",
+      "rating": 4.8,
+      "availability": "online",
+      "joinedDate": "2025-01-10"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Rajesh Kumar",
+      "email": "rajesh@example.com",
+      "phone": "+91 9876543211",
+      "specialization": "CP's Reflex Marma",
+      "status": "approved",
+      "rating": 4.6,
+      "availability": "offline",
+      "joinedDate": "2025-01-12"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Priya Patel",
+      "email": "priya@example.com",
+      "phone": "+91 9876543212",
+      "specialization": "CP's Reflex Marma",
+      "status": "pending",
+      "rating": 0,
+      "availability": "offline",
+      "joinedDate": "2025-01-30"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Sanjay Gupta",
+      "email": "sanjay@example.com",
+      "phone": "+91 9876543213",
+      "specialization": "CP's Reflex Marma",
+      "status": "approved",
+      "rating": 4.9,
+      "availability": "online",
+      "joinedDate": "2025-01-15"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Meena Reddy",
+      "email": "meena@example.com",
+      "phone": "+91 9876543214",
+      "specialization": "CP's Reflex Marma",
+      "status": "approved",
+      "rating": 4.7,
+      "availability": "online",
+      "joinedDate": "2025-01-18"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Vikram Singh",
+      "email": "vikram@example.com",
+      "phone": "+91 9876543215",
+      "specialization": "CP's Reflex Marma",
+      "status": "rejected",
+      "rating": 0,
+      "availability": "offline",
+      "joinedDate": "2025-01-25"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Neha Verma",
+      "email": "neha@example.com",
+      "phone": "+91 9876543216",
+      "specialization": "CP's Reflex Marma",
+      "status": "pending",
+      "rating": 0,
+      "availability": "offline",
+      "joinedDate": "2025-02-01"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Anil Kapoor",
+      "email": "anil@example.com",
+      "phone": "+91 9876543217",
+      "specialization": "CP's Reflex Marma",
+      "status": "approved",
+      "rating": 4.5,
+      "availability": "online",
+      "joinedDate": "2025-01-20"
+    }
+  ]

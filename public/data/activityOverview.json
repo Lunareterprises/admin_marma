@@ -1,0 +1,14 @@
+
+    [{ "name": "Jan", "bookings": 65, "registrations": 28, "serviceUsage": 50 },
+    { "name": "Feb", "bookings": 59, "registrations": 48, "serviceUsage": 55 },
+    { "name": "Mar", "bookings": 80, "registrations": 40, "serviceUsage": 60 },
+    { "name": "Apr", "bookings": 81, "registrations": 47, "serviceUsage": 70 },
+    { "name": "May", "bookings": 56, "registrations": 36, "serviceUsage": 72 },
+    { "name": "Jun", "bookings": 55, "registrations": 27, "serviceUsage": 63 },
+    { "name": "Jul", "bookings": 60, "registrations": 23, "serviceUsage": 55 },
+    { "name": "Aug", "bookings": 110, "registrations": 42, "serviceUsage": 95 },
+    { "name": "Sep", "bookings": 93, "registrations": 35, "serviceUsage": 82 },
+    { "name": "Oct", "bookings": 90, "registrations": 38, "serviceUsage": 85 },
+    { "name": "Nov", "bookings": 95, "registrations": 42, "serviceUsage": 88 },
+    { "name": "Dec", "bookings": 125, "registrations": 65, "serviceUsage": 110 }
+  ]

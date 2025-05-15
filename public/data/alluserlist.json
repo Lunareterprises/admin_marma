@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "+91 9876543210",
+    "type": "doctor",
+    "status": "active",
+    "registeredDate": "2025-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "phone": "+91 9876543211",
+    "type": "patient",
+    "status": "active",
+    "registeredDate": "2025-01-18"
+  },
+  {
+    "id": 3,
+    "name": "Robert Johnson",
+    "email": "robert@example.com",
+    "phone": "+91 9876543212",
+    "type": "students",
+    "status": "inactive",
+    "registeredDate": "2025-01-20"
+  },
+  {
+    "id": 4,
+    "name": "Emily Williams",
+    "email": "emily@example.com",
+    "phone": "+91 9876543213",
+    "type": "patient",
+    "status": "active",
+    "registeredDate": "2025-01-22"
+  },
+  {
+    "id": 5,
+    "name": "Michael Brown",
+    "email": "michael@example.com",
+    "phone": "+91 9876543214",
+    "type": "students",
+    "status": "active",
+    "registeredDate": "2025-01-25"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Davis",
+    "email": "sarah@example.com",
+    "phone": "+91 9876543215",
+    "type": "patient",
+    "status": "active",
+    "registeredDate": "2025-01-28"
+  },
+  {
+    "id": 7,
+    "name": "Dav Miller",
+    "email": "dav@example.com",
+    "phone": "+91 9876543216",
+    "type": "patient",
+    "status": "inactive",
+    "registeredDate": "2025-02-01"
+  },
+  {
+    "id": 8,
+    "name": "Emma Wilson",
+    "email": "emma@example.com",
+    "phone": "+91 9876543217",
+    "type": "students",
+    "status": "active",
+    "registeredDate": "2025-02-05"
+  }
+]

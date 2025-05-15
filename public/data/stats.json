@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Total Users",
+      "value": "1,248",
+      "icon": "Users",
+      "trend": { "value": "12%", "positive": true },
+      "color": "bg-blue-600 text-white"
+    },
+    {
+      "title": "Therapists",
+      "value": "186",
+      "icon": "UserCheck",
+      "trend": { "value": "8%", "positive": false },
+      "color": "bg-teal-600 text-white"
+    },
+    {
+      "title": "Bookings This Month",
+      "value": "427",
+      "icon": "Calendar",
+      "trend": { "value": "5%", "positive": true },
+      "color": "bg-purple-600 text-white"
+    },
+    {
+      "title": "Completed Sessions",
+      "value": "1,842",
+      "icon": "CheckCircle",
+      "trend": { "value": "18%", "positive": true },
+      "color": "bg-green-600 text-white"
+    }
+  ]
+  

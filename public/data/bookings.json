@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "user": "John Doe",
+    "service": "Reflex Marma Session",
+    "date": "2025-02-20",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "user": "Jane Smith",
+    "service": "Reflex Marma Session",
+    "date": "2025-02-21",
+    "status": "Upcoming"
+  },
+  {
+    "id": 3,
+    "user": "Robert Johnson",
+    "service": "Reflex Marma Course",
+    "date": "2025-02-21",
+    "status": "Ongoing"
+  },
+  {
+    "id": 4,
+    "user": "Emily Williams",
+    "service": "Reflex Marma Session",
+    "date": "2025-02-22",
+    "status": "Upcoming"
+  },
+  {
+    "id": 5,
+    "user": "Michael Brown",
+    "service": "Reflex Marma Course",
+    "date": "2025-02-23",
+    "status": "Upcoming"
+  }
+]
